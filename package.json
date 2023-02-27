@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "examen",
+  "version": "1.0.0",
+  "main": "Examen.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "MAS": "nodemon Examen.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
